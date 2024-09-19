@@ -2,6 +2,7 @@
 > 2024-09-19 목요일
 
 ### 문제
+![K번째수 문제](https://github.com/user-attachments/assets/45211c1d-8989-4f49-9b31-361d648315b3)
 
 ### 접근 방법
 1. 우선 answer 배열에 크기를 commands 의 길이로 선언함
