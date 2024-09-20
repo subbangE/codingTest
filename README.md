@@ -3,4 +3,4 @@
 + 정렬
   + [K번째수](https://github.com/subbangE/codingTest/blob/master/src/readme/K%EB%B2%88%EC%A7%B8%EC%88%98.md)
 + 탐욕법(greedy)
-  + [구명보트]()
+  + [구명보트](https://github.com/subbangE/codingTest/blob/master/src/readme/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.md)
