@@ -10,7 +10,7 @@
 3. arr 의 commands[i][2] 에 해당하는 값을 answer[i] 에 선언하고, for 문 종료후에 answer 리턴
 
 ### 내가 푼 풀이
-👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/Day_1/Array.java)
+👉 [문제풀이](https://github.com/subbangE/codingTest/blob/master/src/explanation/K%EB%B2%88%EC%A7%B8%EC%88%98.java)
 
 ### 느낀점
 추석 연휴 끝나고 오랜만에 코딩 문제를 풀어 봤는데 안풀다가 푸니까 메소드명들이 너무 헷갈렸다! 또 공부를 더 하려면 메소드 사용하지말고 해당 메소드를 구현하는 것이 더 도움된다는 얘기를 들어서 이제부터는 메소드를 하나하나 구현해보는 공부도 같이 병행해야겠다 😊
